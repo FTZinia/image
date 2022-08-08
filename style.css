@@ -1,9 +1,11 @@
 .main-1{
     color: red;
-    height: 900px;
-    width: 900px;
+    height: 600px;
+    width: 800px;
     font-size: larger;
     font-style: italic;
+    text-align: center;
+    border: 7px solid gray;
     background-color: brown;
     background-image: url(./img/1625619950_5393a32467_c.jpg);
     background-repeat: no-repeat;
@@ -13,10 +15,12 @@
 }
 .main-2{
        color:blue;
-       height: 900px;
-       width: 900px;
+       height: 600px;
+       width: 800px;
        font-size: larger;
        font-style: italic;
+       text-align: center;
+       border: 7px solid rebeccapurple;
        background-color: blue;
        background-image: url(./img/plumeria-flowers-buds-green-wallpaper-preview.jpg);
        background-repeat: no-repeat;
@@ -26,10 +30,12 @@
 }
 .main-3{
     color: blue;
-    height: 900px;
-    width: 900px;
+    height: 600px;
+    width: 800px;
     font-size: larger;
     font-style: italic;
+    text-align: center;
+    border: 7px solid goldenrod;
     background-color: aquamarine;
     background-image: url(./img/മുല്ലപ്പൂവ്.jpg.crdownload);
     background-repeat: no-repeat;
@@ -39,14 +45,16 @@
 }
 .main-4{
     color: gold;
-    height: 900px;
-    width: 900px;
+    height: 600px;
+    width: 800px;
     font-size: larger;
     font-style: italic;
+    text-align: center;
+    border: 7px solid blueviolet;
     background-color: aquamarine;
     background-image:url(./img/photo-1559456964-a49e2f0cf0d3.jpg);
     background-repeat: no-repeat;
     background-size: cover;
-    background-position: -100% 100%;
+    background-position:-50% 50%;
     background-attachment: fixed;
 }
