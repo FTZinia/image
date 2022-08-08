@@ -24,3 +24,16 @@
        background-position: 50% 50%;
        background-attachment: fixed;
 }
+.main-3{
+    color: blue;
+    height: 900px;
+    width: 900px;
+    font-size: larger;
+    font-style: italic;
+    background-color: aquamarine;
+    background-image: url(./img/മുല്ലപ്പൂവ്.jpg.crdownload);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: -100% 50%;
+    background-attachment: fixed;
+}
