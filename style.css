@@ -37,3 +37,16 @@
     background-position: -100% 50%;
     background-attachment: fixed;
 }
+.main-4{
+    color: gold;
+    height: 900px;
+    width: 900px;
+    font-size: larger;
+    font-style: italic;
+    background-color: aquamarine;
+    background-image:url(./img/photo-1559456964-a49e2f0cf0d3.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: -100% 100%;
+    background-attachment: fixed;
+}
