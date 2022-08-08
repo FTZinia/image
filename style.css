@@ -1,0 +1,13 @@
+.main-1{
+    color: red;
+    height: 900px;
+    width: 900px;
+    font-size: larger;
+    font-style: italic;
+    background-color: brown;
+    background-image: url(./img/1625619950_5393a32467_c.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: 50% 50%;
+    background-attachment: fixed;
+}
